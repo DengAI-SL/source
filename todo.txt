@@ -1,0 +1,8 @@
+probability of a person being in a region given that he is connected to a tower,
+towers has circular coverage so even though the tower is located in a one particular region, the person may be in another
+
+
+
+
+derive values for total travel from each region to others, train the model with varying risk scores to optimize the risk score matrix.
+then use the derrived risk score matrix to predict for the validation set.
